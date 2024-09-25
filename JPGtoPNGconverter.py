@@ -1,3 +1,5 @@
+#Solution
+
 import sys
 import os
 from PIL import Image
